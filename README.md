@@ -14,7 +14,7 @@ of input for different number of stations.
 
 2. Add counters to count the primitive operations performed.
 
-Output:
+Output: <br/>
 ![image](https://user-images.githubusercontent.com/69177804/146645944-5d26826a-de42-4d73-967e-9e3c16872391.png)
 
 
